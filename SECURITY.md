@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Script working with corrent meshroom versions
+Script working with current meshroom versions
 
 | Version  | Supported          |
 | -------- | ------------------ |
