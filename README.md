@@ -15,4 +15,4 @@
 
 * **`drive_output_path`** : Path to your zip file in Google Drive.
 
-After you are done, go to **Runtime > Run All (Ctrl + F9)* and upload your files or have Google Drive authorised below. See the GitHub repo for more information.
+After you are done, go to **Runtime > Run All (Ctrl + F9)** and upload your files or have Google Drive authorised below. See the GitHub repo for more information.
