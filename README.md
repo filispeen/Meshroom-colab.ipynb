@@ -1,6 +1,8 @@
 # Meshroom-colab
 ## _The best  script, ever_
 
+[![Build Status](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/filispeen/Meshroom-colab.ipynb/blob/main/Meshroom_colab.ipynb)
+
 * **`alicevision_version`**: Version alicevion/meshroom used to work with photos
 
 ---
@@ -15,4 +17,5 @@
 
 * **`drive_output_path`** : Path to your zip file in Google Drive.
 
-After you are done, go to **Runtime > Run All (Ctrl + F9)** and upload your files or have Google Drive authorised below. See the GitHub repo for more information.
+After you are done, go to **Runtime > Run All (Ctrl + F9)** and upload your files or have Google Drive authorised below. See the [colab script](https://colab.research.google.com/github/filispeen/Meshroom-colab.ipynb/blob/main/Meshroom_colab.ipynb) for more information.
+
